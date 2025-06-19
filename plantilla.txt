@@ -1,0 +1,31 @@
+==========================================
+            DANIEL'S SHOES STORE          
+       Calle Principal 123, Ciudad MX      
+         Tel: 555-123-4567                
+         RFC: DAN950201AB1                
+==========================================
+           TICKET DE VENTA #04521         
+Fecha: 20/Jun/2024      Hora: 14:35:22    
+==========================================
+Cajero: María González   Caja #03         
+------------------------------------------
+ARTÍCULO                CANT  PRECIO  TOTAL
+------------------------------------------
+Nike Dunk Low           1     $2,499  $2,499
+Color: Blanco/Negro                      
+Talla: US 7.5                            
+                                        
+Nike Dunk High          1     $2,799  $2,799
+Color: Rojo/Blanco                       
+Talla: US 8                               
+------------------------------------------
+SUBTOTAL:                     $5,298      
+IVA (16%):                    $847.68     
+TOTAL:                        $6,145.68   
+------------------------------------------
+FORMA DE PAGO: Tarjeta Visa              
+ÚLT. 4 DÍGITOS: ****1234                 
+------------------------------------------
+          ¡GRACIAS POR SU COMPRA!         
+  *Devoluciones en 15 días con ticket*    
+==========================================
